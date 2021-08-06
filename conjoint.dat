@@ -1,0 +1,14 @@
+Attributes
+Family and close friends mostly:live in the same city,do not live in the same city
+Family and close friends mostly :share similar political opinions,share different political opinions,do not discuss politics 
+Potential risk :Curfew imposed ,Organizers detained,Violent protest expected,Police presence expected,Violent police response expected,Legal repercussions expected,Counter-protest expected,COVID-19 exposure ,Protest permit denied
+Expected turnout:500 people,2500 people,10,000 people
+Source of information:Friend,Family member,Civil society organization,News/media outlet,Social media platform
+Weights
+Family and close friends mostly:0.5,0.5
+Family and close friends mostly :0.3333333333333333,0.3333333333333333,0.3333333333333333
+Potential risk :0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.1111111111111111
+Expected turnout:0.3333333333333333,0.3333333333333333,0.3333333333333333
+Source of information:0.2,0.2,0.2,0.2,0.2
+Restrictions
+
